@@ -5,12 +5,7 @@ html, body {
 	margin: 0;
 	padding: 0;
 	font-family: sans-serif;
-	background: rgb(125,125,125);
 }		
-.main-header {
-	background: rgb(200,200,200);
-	height: 60px;
-}
 .logo {
 	margin: 0;
 	width: 60px;
@@ -45,6 +40,7 @@ img {
 	max-width: 100%;
 	padding: 0px;
 	margin: 0 auto;
+	background: rgb(200,200,200);
 }
 .main-header .container {
 	display: flex;
